@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Entities.Concrete
 {
-    //cıplak klas kalmasin
+    //çıplak klas kalmasın
     public class Category:IEntity
     {
         public int CategoryId { get; set; }
